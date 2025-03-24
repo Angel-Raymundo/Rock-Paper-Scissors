@@ -32,6 +32,7 @@ namespace RocPaSci
                 }
             if (randomOption == 2) { pc.doPlay(new Scissors());
                }
+
             pbx_user.Image = user.Play.setImage();
             pbx_pc.Image = pc.Play.setImage();
 

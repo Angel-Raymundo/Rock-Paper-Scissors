@@ -7,22 +7,6 @@
       "RelativeMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|solutionrelative:rocpasci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|C:\\Users\\Halor\\source\\repos\\RocPaSci\\rocpasci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|solutionrelative:rocpasci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|c:\\users\\halor\\source\\repos\\rocpasci\\rocpasci\\pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|solutionrelative:rocpasci\\pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|c:\\users\\halor\\source\\repos\\rocpasci\\rocpasci\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|solutionrelative:rocpasci\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|c:\\users\\halor\\source\\repos\\rocpasci\\rocpasci\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|solutionrelative:rocpasci\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|c:\\users\\halor\\source\\repos\\rocpasci\\rocpasci\\scissors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|solutionrelative:rocpasci\\scissors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,12 +15,28 @@
       "RelativeMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|solutionrelative:rocpasci\\paper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|c:\\users\\halor\\source\\repos\\rocpasci\\rocpasci\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|solutionrelative:rocpasci\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|c:\\users\\halor\\source\\repos\\rocpasci\\rocpasci\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|solutionrelative:rocpasci\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|c:\\users\\halor\\source\\repos\\rocpasci\\rocpasci\\rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|solutionrelative:rocpasci\\rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|c:\\users\\halor\\source\\repos\\rocpasci\\rocpasci\\throw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|solutionrelative:rocpasci\\throw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|C:\\Users\\Halor\\source\\repos\\RocPaSci\\rocpasci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|solutionrelative:rocpasci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|c:\\users\\halor\\source\\repos\\rocpasci\\rocpasci\\pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|solutionrelative:rocpasci\\pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDC60BD8-4623-436C-9004-73B8CD1CD85F}|RocPaSci\\RocPaSci.csproj|c:\\users\\halor\\source\\repos\\rocpasci\\rocpasci\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Pc.cs",
               "DocumentMoniker": "C:\\Users\\Halor\\source\\repos\\RocPaSci\\RocPaSci\\Pc.cs",
               "RelativeDocumentMoniker": "RocPaSci\\Pc.cs",
@@ -74,12 +74,11 @@
               "RelativeToolTip": "RocPaSci\\Pc.cs",
               "ViewState": "AgIAAAAAAAB2MjMzMzMrwAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T03:53:35.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T03:53:35.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Halor\\source\\repos\\RocPaSci\\RocPaSci\\User.cs",
               "RelativeDocumentMoniker": "RocPaSci\\User.cs",
@@ -92,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Halor\\source\\repos\\RocPaSci\\RocPaSci\\Player.cs",
               "RelativeDocumentMoniker": "RocPaSci\\Player.cs",
@@ -105,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Scissors.cs",
               "DocumentMoniker": "C:\\Users\\Halor\\source\\repos\\RocPaSci\\RocPaSci\\Scissors.cs",
               "RelativeDocumentMoniker": "RocPaSci\\Scissors.cs",
@@ -118,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Paper.cs",
               "DocumentMoniker": "C:\\Users\\Halor\\source\\repos\\RocPaSci\\RocPaSci\\Paper.cs",
               "RelativeDocumentMoniker": "RocPaSci\\Paper.cs",
@@ -131,20 +130,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Rock.cs",
               "DocumentMoniker": "C:\\Users\\Halor\\source\\repos\\RocPaSci\\RocPaSci\\Rock.cs",
               "RelativeDocumentMoniker": "RocPaSci\\Rock.cs",
               "ToolTip": "C:\\Users\\Halor\\source\\repos\\RocPaSci\\RocPaSci\\Rock.cs",
               "RelativeToolTip": "RocPaSci\\Rock.cs",
-              "ViewState": "AgIAAAkAAAAwMzMzM7MywA0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAMzMzMzP7vw0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T03:17:28.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Throw.cs",
               "DocumentMoniker": "C:\\Users\\Halor\\source\\repos\\RocPaSci\\RocPaSci\\Throw.cs",
               "RelativeDocumentMoniker": "RocPaSci\\Throw.cs",
@@ -161,21 +160,21 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Halor\\source\\repos\\RocPaSci\\RocPaSci\\Form1.cs",
               "RelativeDocumentMoniker": "RocPaSci\\Form1.cs",
-              "ToolTip": "C:\\Users\\Halor\\source\\repos\\RocPaSci\\RocPaSci\\Form1.cs*",
-              "RelativeToolTip": "RocPaSci\\Form1.cs*",
-              "ViewState": "AgIAACoAAADAmZmZmZkvwDkAAAAiAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Halor\\source\\repos\\RocPaSci\\RocPaSci\\Form1.cs",
+              "RelativeToolTip": "RocPaSci\\Form1.cs",
+              "ViewState": "AgIAABUAAACg0czMzEwmwCcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T02:49:01.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Halor\\source\\repos\\RocPaSci\\RocPaSci\\Form1.cs",
               "RelativeDocumentMoniker": "RocPaSci\\Form1.cs",
-              "ToolTip": "C:\\Users\\Halor\\source\\repos\\RocPaSci\\RocPaSci\\Form1.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "RocPaSci\\Form1.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\Halor\\source\\repos\\RocPaSci\\RocPaSci\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RocPaSci\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T02:32:40.571Z",
               "EditorCaption": " [Dise\u00F1o]"

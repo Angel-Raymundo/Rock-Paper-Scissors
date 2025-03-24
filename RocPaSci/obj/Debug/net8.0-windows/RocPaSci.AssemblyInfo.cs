@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RocPaSci")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa06c257fe1348f4d00ecc775e7cf4ba4612b4c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("RocPaSci")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RocPaSci")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
