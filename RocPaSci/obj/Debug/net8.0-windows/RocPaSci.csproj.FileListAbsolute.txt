@@ -1,0 +1,17 @@
+C:\Users\Halor\source\repos\RocPaSci\RocPaSci\bin\Debug\net8.0-windows\RocPaSci.exe
+C:\Users\Halor\source\repos\RocPaSci\RocPaSci\bin\Debug\net8.0-windows\RocPaSci.deps.json
+C:\Users\Halor\source\repos\RocPaSci\RocPaSci\bin\Debug\net8.0-windows\RocPaSci.runtimeconfig.json
+C:\Users\Halor\source\repos\RocPaSci\RocPaSci\bin\Debug\net8.0-windows\RocPaSci.dll
+C:\Users\Halor\source\repos\RocPaSci\RocPaSci\bin\Debug\net8.0-windows\RocPaSci.pdb
+C:\Users\Halor\source\repos\RocPaSci\RocPaSci\obj\Debug\net8.0-windows\RocPaSci.Form1.resources
+C:\Users\Halor\source\repos\RocPaSci\RocPaSci\obj\Debug\net8.0-windows\RocPaSci.csproj.GenerateResource.cache
+C:\Users\Halor\source\repos\RocPaSci\RocPaSci\obj\Debug\net8.0-windows\RocPaSci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halor\source\repos\RocPaSci\RocPaSci\obj\Debug\net8.0-windows\RocPaSci.AssemblyInfoInputs.cache
+C:\Users\Halor\source\repos\RocPaSci\RocPaSci\obj\Debug\net8.0-windows\RocPaSci.AssemblyInfo.cs
+C:\Users\Halor\source\repos\RocPaSci\RocPaSci\obj\Debug\net8.0-windows\RocPaSci.csproj.CoreCompileInputs.cache
+C:\Users\Halor\source\repos\RocPaSci\RocPaSci\obj\Debug\net8.0-windows\RocPaSci.dll
+C:\Users\Halor\source\repos\RocPaSci\RocPaSci\obj\Debug\net8.0-windows\refint\RocPaSci.dll
+C:\Users\Halor\source\repos\RocPaSci\RocPaSci\obj\Debug\net8.0-windows\RocPaSci.pdb
+C:\Users\Halor\source\repos\RocPaSci\RocPaSci\obj\Debug\net8.0-windows\RocPaSci.genruntimeconfig.cache
+C:\Users\Halor\source\repos\RocPaSci\RocPaSci\obj\Debug\net8.0-windows\ref\RocPaSci.dll
+C:\Users\Halor\source\repos\RocPaSci\RocPaSci\obj\Debug\net8.0-windows\RocPaSci.Properties.Resources.resources
